@@ -5,11 +5,11 @@
 subo apt update
 ```
 ```
-git clone 
+git clone https://github.com/AKhack7/Bluetooth-attack/blob/main/attack.py
 ```
 ```
-hi
+cd Bluetooth-attack/blob/main/attack.py
 ```
 ```
-python attack
+python attack.py
 ```
